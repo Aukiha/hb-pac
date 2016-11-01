@@ -1,8 +1,6 @@
 # hb-pac
 Site for Performing Arts Council at HB
 
-Site for Performing Arts Council at HB
-
 Built off of http://hbperformingartsc.wixsite.com/hbpac
 
 Made to replace and be more efficient than existing site.
